@@ -1,6 +1,6 @@
 # Physically Realizable Adversarial Creating Attack  Against Vision-Based BEV Space  3D Object Detection
 
-This is a official code release of [BEVDet-Spoofing](https://ieeexplore.ieee.org/abstract/document/10838314)（Physically Realizable Adversarial Creating Attack  Against Vision-Based BEV Space  3D Object Detection）. This code is mainly based on MMDetection3D（v1.0.0rc4）(https://github.com/open-mmlab/mmdetection3d/tree/v1.0.0rc4/mmdet3d/models)、[BEVDet](https://github.com/HuangJunJie2017/BEVDet).
+This is a official code release of [BEVDet-Spoofing](https://ieeexplore.ieee.org/abstract/document/10838314)（Physically Realizable Adversarial Creating Attack  Against Vision-Based BEV Space  3D Object Detection）. This code is mainly based on MMDetection3D[（v1.0.0rc4）](https://github.com/open-mmlab/mmdetection3d/tree/v1.0.0rc4/mmdet3d/models)、[BEVDet](https://github.com/HuangJunJie2017/BEVDet).
 
 
 
@@ -85,4 +85,5 @@ Our released implementation is tested on.
 - Python 3.8
 - NVIDIA CUDA 11.1
 - A40 GPU
+
 
