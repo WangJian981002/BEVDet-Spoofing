@@ -5,7 +5,7 @@ This is a official code release of [BEVDet-Spoofing](https://ieeexplore.ieee.org
 
 
 # Model Zoo
-
+All the required models are [here](https://pan.baidu.com/s/1BP0eErNxgG1BdLPKB5ewvw?pwd=sx8u).
 # Data Preparation
 
 #### nuScenes
@@ -85,5 +85,6 @@ Our released implementation is tested on.
 - Python 3.8
 - NVIDIA CUDA 11.1
 - A40 GPU
+
 
 
